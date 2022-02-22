@@ -17,4 +17,4 @@
 
 ### Registred Message
 * The page will show the user is registered successfully .
-![Sign Up Page - Google Chrome 22_02_2022 12_27_33 pm](https://user-images.githubusercontent.com/85536954/155079302-84f43c9d-1ead-4451-948a-aabe493234e8.png)
+![Sign Up Page - Google Chrome 22_02_2022 12_29_10 pm](https://user-images.githubusercontent.com/85536954/155099173-9abf86d3-863f-44e9-a4ae-bc2e7e1a357f.png)

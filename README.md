@@ -1,2 +1,3 @@
-# Registration
-### The url of this registration form is --->https://shashank-deb.github.io/Registration-Page/
+## Registration-form-Structure
+ 
+![Home page - Google Chrome 22_02_2022 12_21_40 pm (2)](https://user-images.githubusercontent.com/85536954/155078314-5e8c4176-25fb-493a-afb5-b238cae75f43.png)
